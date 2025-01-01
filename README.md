@@ -106,7 +106,7 @@ python app.py -m mistral -p ./documents -e nomic-embed-text
    - Upload or select document directories.
    - Query the system interactively.
 
-![Streamlit Web UI Screenshot](images/streamlit_ui.png)
+
 
 ---
 
